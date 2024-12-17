@@ -21,3 +21,16 @@ We also used datasets from [World Health Organisation (WHO)](https://gco.iarc.fr
 
 ## Project Workflow
 Our project is structured into a series of Jupyter notebooks, each covering a specific phase of the lung cancer prediction model development process.
+
+**1. Data Cleaning**
+
+In this initial phase, we prepare our datasets for analysis by handling missing values, outliers, and any inconsistencies. This ensures the integrity and quality of our data, setting a strong foundation for the subsequent steps.
+
+**2. Trend Visualisation**
+
+In this phase, we generated figures (eg. bar charts, pie charts, etc.) to visualise the trends regarding lung cancer in Singapore. This phase results in the creation of simple and impactful diagrams for the general public to understand lung cancer trends and risks.
+
+**3. Model Development**
+
+This step involves developing our prediction model using machine learning algorithms.
+   
