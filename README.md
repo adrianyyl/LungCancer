@@ -32,5 +32,9 @@ In this phase, we generated figures (eg. bar charts, pie charts, etc.) to visual
 
 **3. Model Development**
 
-This step involves developing our prediction model using machine learning algorithms.
+This step involves developing our prediction model using machine learning algorithms. We tested various techniques, including Multiple Logistic Regression (with Cross-Validation and Regularisation and without), Decision Tree, Bagging, Random Forest, K-Nearest Neighbours, and Neural Network to find the model with the highest F1-Score. The best model was the Elastic Net Logistic Regression with Validation F1-Score of 0.9163636363636364.
+
+**4. Model Testing on New Dataset**
+
+In this step, we used the Elastic Net Logistic Regression model above to test it against the lung cancer survey_test.csv dataset, where the 
    
