@@ -36,5 +36,11 @@ This step involves developing our prediction model using machine learning algori
 
 **4. Model Testing on New Dataset**
 
-In this step, we used the Elastic Net Logistic Regression model above to test it against the lung cancer survey_test.csv dataset, where the 
+In this step, we used the Elastic Net Logistic Regression model above to test it against the lung cancer survey_test.csv dataset, where the F1-Score was 0.9256567915036332.
+
+## Visualisation and Insights
+
+Throughout each phase, we heavily utilise visualisation tools to illustrate our findings and support our decisions. These visual aids are crucial for understanding the complex relationships within the data and validating our approach to personalized recommendations.
+
+We hope you find our project insightful and useful. For any questions or contributions, please feel free to reach out to any of the contributors listed above. Thank you also to the DSA312 team for your guidance in this project.
    
